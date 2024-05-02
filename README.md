@@ -17,7 +17,7 @@
 
 
 ## Screenshot
-![ss]([https://azizz.kidnaps-for.fun/6zmqrLtmK)
+![ss](https://azizz.kidnaps-for.fun/6zmqrLtmK)
 
 ## Releases
 - 25 stars for BIG Update. (double of the functions) ⭐ ❌
