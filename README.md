@@ -16,7 +16,7 @@
 
 # Preview📸 
 <p align="center">
-<img src="https://azizz.kidnaps-for.fun/6zmqrLtmK.png">
+<img src="https://azizz.kidnaps-for.fun/6zmuoY_hs.png">
 </p>
 
 ## Releases
