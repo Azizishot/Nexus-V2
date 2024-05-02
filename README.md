@@ -16,8 +16,10 @@
 <h3 align="center";">Linux Not supported at the moment! ❌</h3>
 
 
-## Screenshot
-[screenshot](https://azizz.kidnaps-for.fun/6zmqrLtmK.png)
+# Preview📸 
+<p align="center">
+<img src="https://azizz.kidnaps-for.fun/6zmqrLtmK.png">
+</p>
 
 ## Releases
 - 25 stars for BIG Update. (double of the functions) ⭐ ❌
