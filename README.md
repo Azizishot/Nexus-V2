@@ -13,7 +13,7 @@
   </p>
 </p>
 <h3 align="center";">Please Star To support this project for free! ⭐</h3>
-<h3 align="center";">If you receive any errors try downloading it from the [Releases](https://github.com/Azizishot/Nexus-V2/releases/tag/mutlitool) </h3>
+<h3 align="center";">If you receive any errors try downloading it from the Releases</h3>
 
 
 # Preview📸 
