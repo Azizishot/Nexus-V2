@@ -13,8 +13,6 @@
   </p>
 </p>
 <h3 align="center";">Please Star To support this project for free! ⭐</h3>
-<h3 align="center";">If you receive any errors try downloading it from the Releases</h3>
-
 
 # Preview📸 
 <p align="center">
