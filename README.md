@@ -6,7 +6,7 @@
   <h3 align="center">[Nexus V2] - discord.gg/hoop</h3>
 
   <p align="center">
-    Nexus-V2 is a Multitool mostly centered around discord Tokens But also has Other Features.
+    Download From Releases For Updated Version.
     <br/>
     <br/>
     <a href="https://discord.gg/hoop">Discord</a>
